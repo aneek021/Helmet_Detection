@@ -1,8 +1,4 @@
-# Bike Helmet Detection > more-preprocessing-augmentation
-https://universe.roboflow.com/bike-helmets/bike-helmet-detection-2vdjo
 
-Provided by a Roboflow user
-License: Public Domain
 
 ## Background Information
 This dataset was curated and annotated by [Syed Salman Reza](https://github.com/syed-reza98). A custom dataset composed of two classes (With Helmet, Without Helmet). Main objetive is to identify if a Biker wearing Helmet or not.
@@ -35,4 +31,3 @@ Mosaic: Applied
 * Training Metrics: Trained from the COCO Checkpoint in Public Models ("[transfer learning](https://blog.roboflow.com/a-primer-on-transfer-learning/)") on Roboflow
 	* mAP = 91.5%, precision = 65.1%, recall = 92.8%
 
-Syed Salman Reza - [Github](https://github.com/syed-reza98)
